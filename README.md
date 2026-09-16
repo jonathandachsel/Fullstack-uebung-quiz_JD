@@ -82,4 +82,4 @@ Hints:
 
 ---
 
-Denk daran: du kannst deinen Fortschritt regelmäßig mit git speichern.
+Denk daran: du kannst deinen Fortschritt regelmäßig mit git speichern.>
